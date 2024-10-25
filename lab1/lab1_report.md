@@ -6,7 +6,7 @@ Group: U4225
 Author: Rusakova Dinara Ihabovna  
 Lab: Lab1  
 Date of create: 22.10.2023  
-Date of finished:   
+Date of finished: 22.10.2023  
 
 
 # Лабораторная работа №1 "Обзор Google Cloud и исследование основных сервисов."
