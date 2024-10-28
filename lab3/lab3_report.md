@@ -6,7 +6,7 @@ Group: U4225
 Author: Rusakova Dinara Ihabovna  
 Lab: Lab3  
 Date of create: 28.10.2023  
-Date of finished: 
+Date of finished: 28.10.2023 
 
 
 # Лабораторная работа №3 "Исследование Cloud Storage"
